@@ -2,4 +2,4 @@
 require 'cgi'
 print "Content-type: text/plain\n\n" 
 
-load 'controllers/home.cgi'
+p "Reached Database settings -> "
